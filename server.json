@@ -4,7 +4,7 @@
   "description": "Control your own iPhones for posting via WebDriverAgent and ESP32 HID.",
   "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/pooriaarab/agentic-device",
+    "url": "https://github.com/itsryanarmani/agentic-device",
     "source": "github",
     "id": "1419959216"
   },

@@ -10,6 +10,6 @@ Keywords: iphone,esp32,webdriveragent,device,agentic-suite,cli,mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-device
-- Core contract: https://github.com/pooriaarab/agentic-device/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-device
+- Core contract: https://github.com/itsryanarmani/agentic-device/blob/main/docs/agentic-core.md
 - License: MIT

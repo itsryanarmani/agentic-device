@@ -28,7 +28,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-device",
+  "mcpName": "io.github.itsryanarmani/agentic-device",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
